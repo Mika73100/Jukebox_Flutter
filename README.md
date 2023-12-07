@@ -1,5 +1,5 @@
 <div align="center">
 
  📱 Flutter projet 📱
-        <img src="img/giphy.gif">
+        <img src="518shots_so.png">
 </div>
