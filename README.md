@@ -1,7 +1,5 @@
-# 🎵 Jukebox – Application de Streaming Musical 🎵
-
 <div align="center">
-  <h2>📱 Projet Flutter 📱</h2>
+  <h2>📱 # 🎵 Jukebox – Application de Streaming Musical 🎵 # 📱</h2>
   <img src="518shots_so.png" alt="aperçu de l'application jukebox" width="600"/>
 </div>
 
